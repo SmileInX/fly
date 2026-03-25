@@ -1,0 +1,1 @@
+loadstring game.Players.LocalPlayer.PlayerScripts:WaitForChild("Fly GUI").Source
